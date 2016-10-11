@@ -15,6 +15,8 @@ brew install watchman
 npm install -g react-native-cli
 ```
 
+## Testing
+
 #### Testing in iOS Emulator
 
 1. Install and open XCode
